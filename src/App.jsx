@@ -14,12 +14,12 @@ function App() {
     <>
         <section class="parent-wrapper">
         <div class="dots-div">
-                <img src={dots} class="dot-icon">
-                <img src={share} alt="share-icon" class="share-icon">
+                <img src={dots} class="dot-icon"/>
+                <img src={share} alt="share-icon" class="share-icon"/>
             </div>
         <div class="container">
             <div class="imgdiv">
-                <img src={profileImg}>
+                <img src={profileImg}/>
                 <h1>John Doe</h1>
             </div>
             <div class="links-wrapper">
@@ -40,18 +40,18 @@ function App() {
                 </div>
             </div>
             <div class="social-icons">
-                <img src={slack} class="img-slack">
-                <img src={gitHub}>
+                <img src={slack} class="img-slack"/>
+                <img src={gitHub}/>
             </div>
-            <hr>
+            <hr/>
         </div>
         <div class="kodecamp-assets">
             <div class="kodecamp-assets-img">
-                <img src={logo} alt="kodecamp logo">
+                <img src={logo} alt="kodecamp logo"/>
             </div>
             <p>KodeCamp Internship Task</p>
             <div class="kodecamp-assets-img kodecamp-assets-img2">
-                <img src={kodeHauzIcon} alt="kodecamp logo">
+                <img src={kodeHauzIcon} alt="kodecamp logo"/>
             </div>
         </div>
     </section>
