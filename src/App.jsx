@@ -47,7 +47,7 @@ function App() {
         </div>
         <div class="kodecamp-assets">
             <div class="kodecamp-assets-img">
-                <img src={logo} alt="kodecamp logo"/>
+                <img src={kodeCampLogo} alt="kodecamp logo"/>
             </div>
             <p>KodeCamp Internship Task</p>
             <div class="kodecamp-assets-img kodecamp-assets-img2">
