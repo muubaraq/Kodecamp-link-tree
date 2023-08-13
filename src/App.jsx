@@ -43,7 +43,7 @@ function App() {
                 <img src={slack} class="img-slack"/>
                 <img src={gitHub}/>
             </div>
-            <hr/>
+            <div class="horizontal"></div>
         </div>
         <div class="kodecamp-assets">
             <div class="kodecamp-assets-img">

@@ -23,6 +23,7 @@ img {
     display: flex;
     justify-content: flex-end;
     padding-right: 25px;
+    padding-top: 25px;
 }
 
 .share-icon {
@@ -59,6 +60,12 @@ img {
 .parent-wrapper .container .social-icons .img-slack{
     margin-right: 14px;
 }
+
+.horizontal{
+     border-bottom: 2px solid #c0c9d0;
+     width: 90%;
+     margin: 0 auto;
+ }
 
 .kodecamp-assets {
     padding: 20px;
