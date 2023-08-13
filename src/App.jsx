@@ -1,12 +1,12 @@
-import { useState } from 'react'
-import dots from './assets/dots.svg'
-import kodeCampLogo from './assets/logo.svg'
-import kodeHauzIcon from './assets/KodeHauz.svg'
-import profileImg from './assets/profile_img.png'
-import gitHub from './assets/github.svg'
-import share from './assets/share.svg'
-import slack from './assets/slack.svg'
-import './App.css'
+import React from "react";
+import "./App.css";
+import dots from "./assets/dots.svg"
+import kodeCampLogo from "./assets/logo.svg"
+import kodeHauzIcon from "./assets/KodeHauz.svg"
+import profileImg from "./assets/profile_img.png"
+import gitHub from "./assets/github.svg"
+import share from "./assets/share.svg"
+import slack from "./assets/slack.svg"
 
 function App() {
 
